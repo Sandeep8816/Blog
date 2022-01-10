@@ -1,0 +1,140 @@
+body{
+  padding: 0px;
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    background-color:  rgb(189, 231, 184);
+
+}
+
+h1{ font-size: 5.625em;
+    line-height: 2;
+    font-weight: bold;
+    margin: 40px auto 0px auto;
+    color:  #51adad;
+    font-family: 'Sacramento', cursive;
+}
+
+h2{
+    font-size: 2.5em;
+    font-weight: normal;
+    color: #51adad;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+  font-size: 1.7em;
+    color: #358884;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.skill{
+  
+    margin-top: 50px;
+    font-size: 2.0em;
+    font-weight: normal;
+    font-family: 'Montserrat', sans-serif;
+}
+
+hr{
+     border-style: none;
+    border-top-style: dotted ;
+    border-color: #c72bdb;
+    border-width: 6px;
+    width: 6%;
+}
+
+.top-container{
+
+    padding-top: 100px;
+    position: relative;
+    background-color: rgb(248, 248, 248);
+}
+
+
+.cloud-top{
+    position: absolute;
+    right: 300px;
+    top:50px
+}
+
+.cloud-bottom{
+    color: #358884 ;
+    position: absolute;
+    left: 300px;
+    bottom:300px
+}
+
+.middle-container{
+  background-color: rgb(255, 255, 255);
+   margin: 50px;
+   padding: 10px;
+   text-align: center;
+}
+
+.profile{
+  padding-bottom: 2%;
+    
+}
+
+
+.skills{
+ margin: 50px;
+ padding-bottom: 10px;
+ margin-bottom: 0px;
+
+}
+
+.skill-img{
+       width: 25%;
+       float: left;
+       margin-right: 30px;
+}
+
+.skill-img1{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.skill-row{
+    width: 50%;
+    text-align: left;
+    margin: 60px auto 80px auto;
+}
+.para{
+     
+    margin-top: -5;
+    height: 32px;
+    padding-top: -2;
+    padding-top: 8px;
+
+}
+
+.contact-me{
+  margin: 50px;
+  }
+  
+.footer-link{
+    margin: 0px 5px 0px 5px ;
+  }
+
+.whatsapp_float{
+    
+    position: fixed;
+    bottom: 20px;
+    right: 55px;
+}
+.bottom-container{
+  
+  margin-left: 50px;
+  margin-right: 50px;
+  background-color: rgb(248, 248, 248);
+}
+
+
+   
+
+
+
